@@ -14,6 +14,7 @@ Data-level imbalance handling using ADASYN
 Algorithm-level imbalance handling using class weights
 
 🎯 Objectives
+
 Predict whether a borrower will default or repay the loan
 Handle class imbalance using ADASYN and class weighting
 Compare both imbalance-handling approaches in DNN
@@ -21,6 +22,7 @@ Improve recall for the default class
 Optimize classification threshold for better risk detection
 
 🛠️ Approach
+
 Performed data cleaning and preprocessing
 Handled missing values and removed irrelevant features
 Encoded categorical variables
@@ -36,6 +38,7 @@ Used Early Stopping to prevent overfitting
 Performed threshold tuning for improved recall
 
 📊 Results
+
 🔹 ADASYN-Based Model
 Metric	Unpaid (Class 1)
 Precision	~0.23
