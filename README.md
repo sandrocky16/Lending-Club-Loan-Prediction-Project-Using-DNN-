@@ -99,7 +99,7 @@ Therefore, the class-weighted DNN model was selected as the final model for the 
 ### 8. Recall and F1-score were more meaningful evaluation metrics for financial risk prediction.
 ### 9. Similar evaluation and test performance indicated that the final model generalized well without significant overfitting.
 
-🚀 Business Impact
+## 🚀 Business Impact
 
 ### 1. Helps financial institutions identify high-risk borrowers before loan approval
 ### 2. Reduces financial losses caused by loan defaults
