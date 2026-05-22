@@ -11,7 +11,7 @@
 
 ### The Lending Club dataset contained significantly fewer ‘Unpaid’ (default) cases compared to ‘Paid’ loans, causing severe class imbalance.
 
-### Traditional deep learning models tend to favor the majority class, resulting in poor detection of risky borrowers. Therefore, the objective of this project was to build a robust Deep Neural Network capable of ### identifying potential defaulters effectively while comparing:
+### Traditional deep learning models tend to favor the majority class, resulting in poor detection of risky borrowers. Therefore, the objective of this project was to build a robust Deep Neural Network capable of identifying potential defaulters effectively while comparing:
 
 ### Data-level imbalance handling using ADASYN
 
